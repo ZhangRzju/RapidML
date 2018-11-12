@@ -10,7 +10,7 @@ import sys
 
 cascade_classifier = cv2.CascadeClassifier(CASC_PATH)
 
-image=Image.open("1.jpg")
+image=Image.open("recorder/1.jpg")
 
 #format jpg/png file to fit into network size
 def format_image_norm(image):

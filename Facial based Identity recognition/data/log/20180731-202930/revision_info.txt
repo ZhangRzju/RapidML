@@ -1,0 +1,7 @@
+arguments: G:/ALP/zile/src/revised_train_softmax.py
+--------------------
+tensorflow version: 1.8.0
+--------------------
+git hash: git rev-parse HEAD: The system cannot find the file specified
+--------------------
+git diff HEAD: The system cannot find the file specified

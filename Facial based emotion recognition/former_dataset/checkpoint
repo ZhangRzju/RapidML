@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/inlab/ALP/claire/data/Gudi_model_100_epochs_20000_faces"
+all_model_checkpoint_paths: "/home/inlab/ALP/claire/data/Gudi_model_100_epochs_20000_faces"
